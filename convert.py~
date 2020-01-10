@@ -1,8 +1,0 @@
-import commands    
-import os    
-
-inputfile='desk.ply'
-command='/usr/local/bin/pcl_ply2obj'
-outputfile='desk.obj'
-
-os.system(command+' '+inputfile+' '+outputfile)
