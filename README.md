@@ -14,3 +14,5 @@ make -j4
 ./convert <file_name>
 ```
 
+
+<img src="images/mesh.png" alt="Sample"  width="280" height="200"><img src="images/mesh-point.png" alt="Sample"  width="280" height="200"><img src="images/pointcloud.png" alt="Sample"  width="280" height="200">
